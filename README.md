@@ -1,4 +1,4 @@
 Quick start:
 
-$ yarn # npm install
-$ yarn build # npm run build
+1)npm install
+2)npm start
